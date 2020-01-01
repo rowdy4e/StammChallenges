@@ -80,7 +80,7 @@ public void OnPluginStart()
 	 
 	AutoExecConfig(true, "stammchallenges");
 	
-	hCookie = RegClientCookie("sf_invite_enabled", "Stamm Fight Invite", CookieAccess_Protected);
+	hCookie = RegClientCookie("sc_invite_enabled", "Stamm Fight Invite", CookieAccess_Protected);
 	
 	for (int i = 1; i <= MaxClients; i++) {
 		if (!IsValidClient(i))

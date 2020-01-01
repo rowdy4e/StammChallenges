@@ -46,7 +46,7 @@
 		"en"		"{lightred}Oops! Invalid client."
 	}
 	
-	"Oops! Minimum Stamm points"
+	"Oops! Minimum Stammpoints"
 	{
 		"#format"	"{1:i},{2:i}"
 		"en"		"{lightred}Minimum Stamm points are {1}. You still need {2} Stamm points!"
@@ -62,7 +62,7 @@
 		"en"		"{lightred}Challenge has been aborted!"
 	}
 	
-	"Type amount of Stamm points for challenge or abort"
+	"Type amount of Stammpoints for challenge or abort"
 	{
 		"#format"	"{1:i}"
 		"en"		"{lightgreen}Type amount of Stamm points(Maximum: {1}) to challenge your opponent or \"abort\" to cancel action."

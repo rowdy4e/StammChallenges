@@ -1,0 +1,233 @@
+"Phrases"
+{
+	"ChatTag"
+	{
+		"cze"		"[{green}StammChallenges{default}] "
+	}
+	
+	"You won challenge"
+	{
+		"#format"	"{1:i},{2:N}"
+		"cze"		"{lightgreen}Vyhrál si výzvu o {1} Stammbodů proti hráči {2}."
+	}
+	
+	"You lost challenge"
+	{
+		"#format"	"{1:i},{2:N}"
+		"cze"		"{lightred}Prohrál si výzvu o {1} Stammbodů proti hráči {2}."
+	}
+	
+	"Player changed his team - client"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Změnil si team! Výzva zrušena!"
+	}
+	
+	"Player changed his team - opponent"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Hráč {1} změnil svůj team! Výzva zrušena!"
+	}
+	
+	"Challenge with amount failed! Try it again"
+	{
+		"#format"	"{1:i},{2:i}"
+		"cze"		"{lightred}Výzva s {1} Stammbody selhala! Maximum Stammbodů je {2}. Zkus to znovu!"
+	}
+	
+	"Challenge with amount has been sent"
+	{
+		"#format"	"{1:i},{2:N}"
+		"cze"		"{lightgreen}Výzva o {1} Stammbodů protu hráči {2} byla odeslána!"
+	}
+	
+	"Oops! Invalid client"
+	{
+		"cze"		"{lightred}Oops! Neplatný client."
+	}
+	
+	"Oops! Minimum Stammpoints"
+	{
+		"#format"	"{1:i},{2:i}"
+		"cze"		"{lightred}Minimum Stammbodů je {1}. Stále potřebuješ {2} Stammbodů!"
+	}
+	
+	"Oops! Wrong team"
+	{
+		"cze"		"{lightred}Jsi ve špatném týmu!"
+	}
+	
+	"Challenge has been aborted"
+	{
+		"cze"		"{lightred}Výzva byla zrušena!"
+	}
+	
+	"Type amount of Stammpoints for challenge or abort"
+	{
+		"#format"	"{1:i}"
+		"cze"		"{lightgreen}Napište počet Stammbodů(Maximum: {1}) k výzvě protivníka nebo \"abort\" pro zrušení akce."
+	}
+	
+	"Challenge failed! Challenger challenging another player"
+	{
+		"cze"		"{lightred}Výzva selhala! Vyzivatel vyzívá jiného hráče!"
+	}
+	
+	"Challenge failed! Wrong team"
+	{
+		"cze"		"{lightred}Výzva selhala! Jsi ve špatném týmu!"
+	}
+	
+	"Challenge failed! Player is in wrong team"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Výzva selhala! Hráč {1} je ve špatném týmu!"
+	}
+	
+	"Challenge failed! Challenger is in same team"
+	{
+		"cze"		"{lightred}Výzva selhala! Vyzivatel je ve stejném týmu!"
+	}
+	
+	"Challenge started"
+	{
+		"#format"	"{1:i},{2:N},{3:i}"
+		"cze"		"{lightgreen}Nyní hrajete o {1} Stammbodů proti hráči {2} v lobby #{3}."
+	}
+	
+	"Challenge will be started next round"
+	{
+		"#format"	"{1:i},{2:N},{3:i}"
+		"cze"		"{lightgreen}Příští kolo budete hrát o {1} Stammbodů proti hráči {2} v lobby #{3}!"
+	}
+	
+	"Player disconnected from challenge"
+	{
+		"#format"	"{1:N},{2:i},{3:N},{4:i},{5:i}"
+		"cze"		"{lightred}Hráč {1} se odpojil s aktivní výzvou o {2} Stammbodů proti hráči {3} v lobby #{4}. Penalizace -{5} Stammbodů!"
+	}
+	
+	"Challenge failed! Player disconnected from challenge"
+	{	
+		"#format"	"{1:N},{2:i}"
+		"cze"		"{lightred}Výzva selhala! Hráč {1} se odpojil z výzvy o {2} Stammbodů!"
+	}
+	
+	"Challenge failed! Player droped from challenge"
+	{
+		"#format"	"{1:N},{2:i}"
+		"cze"		"{lightred}Výzva selhala! Hráč {1} vypadnul z výzvy o {2} Stammbodů!"
+	}
+	
+	"Lobby is not available"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Není zde žádné dostupné lobby proti hráči {1}!"
+	}
+	
+	"Challenge denied - challenger"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Hráč {1} odmítl tvoji výzvu!"
+	}
+	
+	"Challenge denied - opponent"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Odmítl si výzvu proti hráči {1}!"
+	}
+	
+	"Opponent didn't react to your challenge"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Hráč {1} nezareagoval na tvoji výzvu!"
+	}
+	
+	"You didn't react to challenge"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Nezareagoval si na výzvu proti hráči {1}!"
+	}
+	
+	"You cancelled challenge"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Zrušil si výzvu proti hráči {1}!"
+	}
+	
+	"Challenge has been canceled"
+	{
+		"#format"	"{1:N}"
+		"cze"		"{lightred}Hráč {1} zrušil výzvu!"
+	}
+	
+	"Menu Title - Active challenge"
+	{
+		"#format"	"{1:i},{2:N}"
+		"cze"		"Aktivní výzva o {1} Stammbodů proti hráči {2}"
+	}
+	
+	"Menu Title - Settings"
+	{
+		"cze"		"Stamm Challenge nastavení"
+	}
+	
+	"Menu Title - Challenge request"
+	{
+		"#format"	"{1:N},{2:i}"
+		"cze"		"Hráč {1} tě chce vyzvat o {2} Stammbodů"
+	}
+	
+	"Menu Title - Choose client"
+	{
+		"cze"		"Vyzvěte hráče:"
+	}
+	
+	"Menu Item - Cancel challenge"
+	{
+		"cze"		"Zrušit"
+	}
+	
+	"Menu Item - Deny"
+	{
+		"cze"		"Odmítnout"
+	}
+	
+	"Menu Item - Accept"
+	{
+		"cze"		"Přijmout"
+	}
+	
+	"Menu Item - On"
+	{
+		"cze"		"Zapnout"
+	}
+	
+	"Menu Item - Off"
+	{
+		"cze"		"Vypnout"
+	}
+	
+	"Menu Item - Pinned"
+	{
+		"cze"		" [X]"
+	}
+	
+	"Menu Item - Client"
+	{
+		"#format"	"{1:N},{2:i}"
+		"cze"		"{1} ({2} Stammů)"
+	}
+	
+	"Menu Item - Empty"
+	{
+		"cze"		"Menu je prázdné..."
+	}
+	
+	"Menu Item - Unpinned"
+	{
+		"cze"		""
+	}
+	
+	
+}

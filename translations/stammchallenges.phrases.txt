@@ -1,0 +1,233 @@
+"Phrases"
+{
+	"ChatTag"
+	{
+		"en"		"[{green}StammChallenges{default}] "
+	}
+	
+	"You won challenge"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"{lightgreen}You won the challenge for {1} Stammpoints versus player {2}."
+	}
+	
+	"You lost challenge"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"{lightred}You lost the challenge for {1} Stammpoints versus player {2}."
+	}
+	
+	"Player changed his team - client"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}You changed team! Challenge cancelled!"
+	}
+	
+	"Player changed his team - opponent"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}Player {1} changed his team! Challenge cancelled!"
+	}
+	
+	"Challenge with amount failed! Try it again"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"{lightred}Challenge with {1} Stammpoints failed! Maximum amount is {2}. Try it again!"
+	}
+	
+	"Challenge with amount has been sent"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"{lightgreen}Challenge for {1} Stammpoints versus player {2} has been sent!"
+	}
+	
+	"Oops! Invalid client"
+	{
+		"en"		"{lightred}Oops! Invalid client."
+	}
+	
+	"Oops! Minimum Stammpoints"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"		"{lightred}Minimum Stammpoints are {1}. You still need {2} Stammpoints!"
+	}
+	
+	"Oops! Wrong team"
+	{
+		"en"		"{lightred}You are in a wrong team!"
+	}
+	
+	"Challenge has been aborted"
+	{
+		"en"		"{lightred}Challenge has been aborted!"
+	}
+	
+	"Type amount of Stammpoints for challenge or abort"
+	{
+		"#format"	"{1:i}"
+		"en"		"{lightgreen}Type amount of Stammpoints(Maximum: {1}) to challenge your opponent or \"abort\" to cancel action."
+	}
+	
+	"Challenge failed! Challenger challenging another player"
+	{
+		"en"		"{lightred}Challenge failed! Challenger challenging another player!"
+	}
+	
+	"Challenge failed! Wrong team"
+	{
+		"en"		"{lightred}Challenge failed! You are in wrong team!"
+	}
+	
+	"Challenge failed! Player is in wrong team"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}Challenge failed! Player {1} is in wrong team!"
+	}
+	
+	"Challenge failed! Challenger is in same team"
+	{
+		"en"		"{lightred}Challenge failed! Challenger is in same team!"
+	}
+	
+	"Challenge started"
+	{
+		"#format"	"{1:i},{2:N},{3:i}"
+		"en"		"{lightgreen}You are now playing for {1} Stammpoints versus player {2} in lobby #{3}."
+	}
+	
+	"Challenge will be started next round"
+	{
+		"#format"	"{1:i},{2:N},{3:i}"
+		"en"		"{lightgreen}You will play for {1} Stammpoints versus player {2} in lobby #{3} next round!"
+	}
+	
+	"Player disconnected from challenge"
+	{
+		"#format"	"{1:N},{2:i},{3:N},{4:i},{5:i}"
+		"en"		"{lightred}Player {1} disconnected with active challenge for {2} Stammpoints versus player {3} in lobby #{4}. Punishment -{5} Stammpoints!"
+	}
+	
+	"Challenge failed! Player disconnected from challenge"
+	{	
+		"#format"	"{1:N},{2:i}"
+		"en"		"{lightred}Challenge failed! Player {1} disconnected from challenge for {2} Stammpoints!"
+	}
+	
+	"Challenge failed! Player droped from challenge"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"{lightred}Challenge failed! Player {1} droped from challenge for {2} Stammpoints!"
+	}
+	
+	"Lobby is not available"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}There is no lobby available versus player {1}!"
+	}
+	
+	"Challenge denied - challenger"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}Player {1} denied your challenge!"
+	}
+	
+	"Challenge denied - opponent"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}You denied challenge versus player {1}!"
+	}
+	
+	"Opponent didn't react to your challenge"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}Player {1} didn't react to your challenge!"
+	}
+	
+	"You didn't react to challenge"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}You didn't react to challenge versus player {1}!"
+	}
+	
+	"You cancelled challenge"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}You cancelled challenge versus player {1}!"
+	}
+	
+	"Challenge has been canceled"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightred}Player {1} cancelled challenge!"
+	}
+	
+	"Menu Title - Active challenge"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"Active challenge for {1} Stammpoints versus player {2}"
+	}
+	
+	"Menu Title - Settings"
+	{
+		"en"		"Stamm Challenge settings"
+	}
+	
+	"Menu Title - Challenge request"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"Player {1} wants to challenge you for {2} Stammpoints"
+	}
+	
+	"Menu Title - Choose client"
+	{
+		"en"		"Challenge client:"
+	}
+	
+	"Menu Item - Cancel challenge"
+	{
+		"en"		"Cancel"
+	}
+	
+	"Menu Item - Deny"
+	{
+		"en"		"Deny"
+	}
+	
+	"Menu Item - Accept"
+	{
+		"en"		"Accept"
+	}
+	
+	"Menu Item - On"
+	{
+		"en"		"Enable"
+	}
+	
+	"Menu Item - Off"
+	{
+		"en"		"Disable"
+	}
+	
+	"Menu Item - Pinned"
+	{
+		"en"		" [X]"
+	}
+	
+	"Menu Item - Client"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"{1} ({2} Stamms)"
+	}
+	
+	"Menu Item - Empty"
+	{
+		"en"		"Menu is empty..."	
+	}
+	
+	"Menu Item - Unpinned"
+	{
+		"en"		""
+	}
+	
+	
+}

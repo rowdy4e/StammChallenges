@@ -2,19 +2,19 @@
 {
 	"ChatTag"
 	{
-		"en"		"[{green}StammChallenges{default}] "
+		"en"		"[{green}Stamm Challenges{default}] "
 	}
 	
 	"You won challenge"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{lightgreen}You won the challenge for {1} Stammpoints versus player {2}."
+		"en"		"{lightgreen}You won the challenge for {1} Stamm points versus player {2}."
 	}
 	
 	"You lost challenge"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{lightred}You lost the challenge for {1} Stammpoints versus player {2}."
+		"en"		"{lightred}You lost the challenge for {1} Stamm points versus player {2}."
 	}
 	
 	"Player changed his team - client"
@@ -32,13 +32,13 @@
 	"Challenge with amount failed! Try it again"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"{lightred}Challenge with {1} Stammpoints failed! Maximum amount is {2}. Try it again!"
+		"en"		"{lightred}Challenge with {1} Stamm points failed! Maximum amount is {2}. Try it again!"
 	}
 	
 	"Challenge with amount has been sent"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"{lightgreen}Challenge for {1} Stammpoints versus player {2} has been sent!"
+		"en"		"{lightgreen}Challenge for {1} Stamm points versus player {2} has been sent!"
 	}
 	
 	"Oops! Invalid client"
@@ -46,10 +46,10 @@
 		"en"		"{lightred}Oops! Invalid client."
 	}
 	
-	"Oops! Minimum Stammpoints"
+	"Oops! Minimum Stamm points"
 	{
 		"#format"	"{1:i},{2:i}"
-		"en"		"{lightred}Minimum Stammpoints are {1}. You still need {2} Stammpoints!"
+		"en"		"{lightred}Minimum Stamm points are {1}. You still need {2} Stamm points!"
 	}
 	
 	"Oops! Wrong team"
@@ -62,10 +62,10 @@
 		"en"		"{lightred}Challenge has been aborted!"
 	}
 	
-	"Type amount of Stammpoints for challenge or abort"
+	"Type amount of Stamm points for challenge or abort"
 	{
 		"#format"	"{1:i}"
-		"en"		"{lightgreen}Type amount of Stammpoints(Maximum: {1}) to challenge your opponent or \"abort\" to cancel action."
+		"en"		"{lightgreen}Type amount of Stamm points(Maximum: {1}) to challenge your opponent or \"abort\" to cancel action."
 	}
 	
 	"Challenge failed! Challenger challenging another player"
@@ -92,31 +92,31 @@
 	"Challenge started"
 	{
 		"#format"	"{1:i},{2:N},{3:i}"
-		"en"		"{lightgreen}You are now playing for {1} Stammpoints versus player {2} in lobby #{3}."
+		"en"		"{lightgreen}You are now playing for {1} Stamm points versus player {2} in lobby #{3}."
 	}
 	
 	"Challenge will be started next round"
 	{
 		"#format"	"{1:i},{2:N},{3:i}"
-		"en"		"{lightgreen}You will play for {1} Stammpoints versus player {2} in lobby #{3} next round!"
+		"en"		"{lightgreen}You will play for {1} Stamm points versus player {2} in lobby #{3} next round!"
 	}
 	
 	"Player disconnected from challenge"
 	{
 		"#format"	"{1:N},{2:i},{3:N},{4:i},{5:i}"
-		"en"		"{lightred}Player {1} disconnected with active challenge for {2} Stammpoints versus player {3} in lobby #{4}. Punishment -{5} Stammpoints!"
+		"en"		"{lightred}Player {1} disconnected with active challenge for {2} Stamm points versus player {3} in lobby #{4}. Punishment -{5} Stamm points!"
 	}
 	
 	"Challenge failed! Player disconnected from challenge"
 	{	
 		"#format"	"{1:N},{2:i}"
-		"en"		"{lightred}Challenge failed! Player {1} disconnected from challenge for {2} Stammpoints!"
+		"en"		"{lightred}Challenge failed! Player {1} disconnected from challenge for {2} Stamm points!"
 	}
 	
 	"Challenge failed! Player droped from challenge"
 	{
 		"#format"	"{1:N},{2:i}"
-		"en"		"{lightred}Challenge failed! Player {1} droped from challenge for {2} Stammpoints!"
+		"en"		"{lightred}Challenge failed! Player {1} droped from challenge for {2} Stamm points!"
 	}
 	
 	"Lobby is not available"
@@ -164,7 +164,7 @@
 	"Menu Title - Active challenge"
 	{
 		"#format"	"{1:i},{2:N}"
-		"en"		"Active challenge for {1} Stammpoints versus player {2}"
+		"en"		"Active challenge for {1} Stamm points versus player {2}"
 	}
 	
 	"Menu Title - Settings"
@@ -175,7 +175,7 @@
 	"Menu Title - Challenge request"
 	{
 		"#format"	"{1:N},{2:i}"
-		"en"		"Player {1} wants to challenge you for {2} Stammpoints"
+		"en"		"Player {1} wants to challenge you for {2} Stamm points"
 	}
 	
 	"Menu Title - Choose client"

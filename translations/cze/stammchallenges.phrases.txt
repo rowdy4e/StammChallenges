@@ -2,19 +2,19 @@
 {
 	"ChatTag"
 	{
-		"cze"		"[{green}StammChallenges{default}] "
+		"cze"		"[{green}Stamm Challenges{default}] "
 	}
 	
 	"You won challenge"
 	{
 		"#format"	"{1:i},{2:N}"
-		"cze"		"{lightgreen}Vyhrál si výzvu o {1} Stammbodů proti hráči {2}."
+		"cze"		"{lightgreen}Vyhrál si výzvu o {1} Stamm bodů proti hráči {2}."
 	}
 	
 	"You lost challenge"
 	{
 		"#format"	"{1:i},{2:N}"
-		"cze"		"{lightred}Prohrál si výzvu o {1} Stammbodů proti hráči {2}."
+		"cze"		"{lightred}Prohrál si výzvu o {1} Stamm bodů proti hráči {2}."
 	}
 	
 	"Player changed his team - client"
@@ -32,13 +32,13 @@
 	"Challenge with amount failed! Try it again"
 	{
 		"#format"	"{1:i},{2:i}"
-		"cze"		"{lightred}Výzva s {1} Stammbody selhala! Maximum Stammbodů je {2}. Zkus to znovu!"
+		"cze"		"{lightred}Výzva s {1} Stammbody selhala! Maximum Stamm bodů je {2}. Zkus to znovu!"
 	}
 	
 	"Challenge with amount has been sent"
 	{
 		"#format"	"{1:i},{2:N}"
-		"cze"		"{lightgreen}Výzva o {1} Stammbodů protu hráči {2} byla odeslána!"
+		"cze"		"{lightgreen}Výzva o {1} Stamm bodů protu hráči {2} byla odeslána!"
 	}
 	
 	"Oops! Invalid client"
@@ -49,7 +49,7 @@
 	"Oops! Minimum Stammpoints"
 	{
 		"#format"	"{1:i},{2:i}"
-		"cze"		"{lightred}Minimum Stammbodů je {1}. Stále potřebuješ {2} Stammbodů!"
+		"cze"		"{lightred}Minimum Stamm bodů je {1}. Stále potřebuješ {2} Stamm bodů!"
 	}
 	
 	"Oops! Wrong team"
@@ -65,7 +65,7 @@
 	"Type amount of Stammpoints for challenge or abort"
 	{
 		"#format"	"{1:i}"
-		"cze"		"{lightgreen}Napište počet Stammbodů(Maximum: {1}) k výzvě protivníka nebo \"abort\" pro zrušení akce."
+		"cze"		"{lightgreen}Napište počet Stamm bodů(Maximum: {1}) k výzvě protivníka nebo \"abort\" pro zrušení akce."
 	}
 	
 	"Challenge failed! Challenger challenging another player"
@@ -92,31 +92,31 @@
 	"Challenge started"
 	{
 		"#format"	"{1:i},{2:N},{3:i}"
-		"cze"		"{lightgreen}Nyní hrajete o {1} Stammbodů proti hráči {2} v lobby #{3}."
+		"cze"		"{lightgreen}Nyní hrajete o {1} Stamm bodů proti hráči {2} v lobby #{3}."
 	}
 	
 	"Challenge will be started next round"
 	{
 		"#format"	"{1:i},{2:N},{3:i}"
-		"cze"		"{lightgreen}Příští kolo budete hrát o {1} Stammbodů proti hráči {2} v lobby #{3}!"
+		"cze"		"{lightgreen}Příští kolo budete hrát o {1} Stamm bodů proti hráči {2} v lobby #{3}!"
 	}
 	
 	"Player disconnected from challenge"
 	{
 		"#format"	"{1:N},{2:i},{3:N},{4:i},{5:i}"
-		"cze"		"{lightred}Hráč {1} se odpojil s aktivní výzvou o {2} Stammbodů proti hráči {3} v lobby #{4}. Penalizace -{5} Stammbodů!"
+		"cze"		"{lightred}Hráč {1} se odpojil s aktivní výzvou o {2} Stamm bodů proti hráči {3} v lobby #{4}. Penalizace -{5} Stamm bodů!"
 	}
 	
 	"Challenge failed! Player disconnected from challenge"
 	{	
 		"#format"	"{1:N},{2:i}"
-		"cze"		"{lightred}Výzva selhala! Hráč {1} se odpojil z výzvy o {2} Stammbodů!"
+		"cze"		"{lightred}Výzva selhala! Hráč {1} se odpojil z výzvy o {2} Stamm bodů!"
 	}
 	
 	"Challenge failed! Player droped from challenge"
 	{
 		"#format"	"{1:N},{2:i}"
-		"cze"		"{lightred}Výzva selhala! Hráč {1} vypadnul z výzvy o {2} Stammbodů!"
+		"cze"		"{lightred}Výzva selhala! Hráč {1} vypadnul z výzvy o {2} Stamm bodů!"
 	}
 	
 	"Lobby is not available"
@@ -164,7 +164,7 @@
 	"Menu Title - Active challenge"
 	{
 		"#format"	"{1:i},{2:N}"
-		"cze"		"Aktivní výzva o {1} Stammbodů proti hráči {2}"
+		"cze"		"Aktivní výzva o {1} Stamm bodů proti hráči {2}"
 	}
 	
 	"Menu Title - Settings"
@@ -175,7 +175,7 @@
 	"Menu Title - Challenge request"
 	{
 		"#format"	"{1:N},{2:i}"
-		"cze"		"Hráč {1} tě chce vyzvat o {2} Stammbodů"
+		"cze"		"Hráč {1} tě chce vyzvat o {2} Stamm bodů"
 	}
 	
 	"Menu Title - Choose client"

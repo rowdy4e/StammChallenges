@@ -252,7 +252,7 @@ public void OnClientDisconnect(int client)
 		if (StrEqual(cDisconnectReason, "Disconnect")) {
 			if (IsValidClient(opponent)) {
 				if (!iLobby[lobbyid][ePunishment]) {
-					CPrintToChat(opponent, "Challenge failed! Player disconnected from challenge", client, iLobby[lobbyid][eAmount]);
+					CPrintToChat(opponent, "%t%t", "ChatTag", "Challenge failed! Player disconnected from challenge", client, iLobby[lobbyid][eAmount]);
 					RefreshClient(opponent);
 					RefreshClient(client);
 					RefreshLobby(lobbyid);
@@ -261,7 +261,7 @@ public void OnClientDisconnect(int client)
 		} else {
 			if (IsValidClient(opponent)) {
 				RefreshClient(opponent);
-				CPrintToChat(opponent, "Challenge failed! Player droped from challenge", client, iLobby[lobbyid][eAmount]);
+				CPrintToChat(opponent, "%t%t", "ChatTag", "Challenge failed! Player droped from challenge", client, iLobby[lobbyid][eAmount]);
 			}
 			RefreshClient(client);
 			RefreshLobby(lobbyid);
